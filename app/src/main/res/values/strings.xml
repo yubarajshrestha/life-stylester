@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeStylester</string>
+
+    <!-- Drawer Strings -->
+    <string name="drawerOpen">Open Drawer</string>
+    <string name="drawerClose">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="men_title">Men</string>
+    <string name="women_title">Women</string>
+    <string name="other_title">Summer Outlet</string>
+    <string name="shopping_bag">Shopping Bag</string>
+</resources>

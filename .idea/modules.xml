@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LifeStylester.iml" filepath="$PROJECT_DIR$/LifeStylester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/life-stylester.iml" filepath="$PROJECT_DIR$/.idea/modules/life-stylester.iml" group="life-stylester" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/life-stylester-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/life-stylester-app.iml" group="life-stylester/app" />
+    </modules>
+  </component>
+</project>
